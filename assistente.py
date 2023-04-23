@@ -162,7 +162,7 @@ def executa_comandos(mensagem):
 
 
 def main():
-    cria_audio("ola.mp3", "Olá")
+    cria_audio("ola.mp3", "Olá, eu sou a Aridiene! Sua assistente virtual! Em que posso ajudá-lo?")
     while True:
         monitora_audio()
 
